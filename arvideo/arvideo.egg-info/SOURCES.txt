@@ -1,0 +1,8 @@
+README.md
+setup.py
+arvideo/arvideo.py
+arvideo/arvideo.egg-info/PKG-INFO
+arvideo/arvideo.egg-info/SOURCES.txt
+arvideo/arvideo.egg-info/dependency_links.txt
+arvideo/arvideo.egg-info/requires.txt
+arvideo/arvideo.egg-info/top_level.txt

@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: arvideo
+Version: 0.0.1
+Summary: Hologram a video in a real-world entity surrounded with ArUco markers.
+Home-page: https://github.com/Akash-Peace
+Author: Akash.A
+Author-email: akashcse2000@gmail.com
+License: MIT
+Description: ## arvideo
+        arvideo is a python module used to hologram a video in a real-world entity surrounded with ArUco markers.
+        
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
